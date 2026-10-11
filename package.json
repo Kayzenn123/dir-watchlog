@@ -1,0 +1,1 @@
+{"bin":{"dir-watchlog":"bin/dir-watchlog.js"},"description":"Watch folders for file changes, log an audit trail, and run commands per event","engines":{"node":">=18"},"files":["bin","src"],"license":"MIT","name":"dir-watchlog","scripts":{"test":"node --test"},"version":"1.0.0"}
